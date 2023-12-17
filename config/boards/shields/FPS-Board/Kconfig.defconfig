@@ -1,0 +1,6 @@
+if SHIELD_FPS_BOARD
+
+config ZMK_KEYBOARD_NAME
+    default "FPS_Board"
+
+endif
