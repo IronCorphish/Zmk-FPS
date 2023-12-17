@@ -1,2 +1,0 @@
-config SHIELD_FPS_BOARD
-    def_bool $(shields_list_contains, FPS_Board)
